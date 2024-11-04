@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone_dust"
+    },
+    "1": {
+      "item": "minecraft:redstone_dust"
+    },
+    "2": {
+      "item": "minecraft:redstone_dust"
+    },
+    "3": {
+      "item": "minecraft:redstone_dust"
+    },
+    "4": {
+      "item": "control_crystal:control_crystal_kernel"
+    },
+    "5": {
+      "item": "minecraft:redstone_dust"
+    },
+    "6": {
+      "item": "minecraft:redstone_dust"
+    },
+    "7": {
+      "item": "minecraft:redstone_dust"
+    },
+    "8": {
+      "item": "minecraft:redstone_dust"
+    }
+  },
+  "result": {
+    "item": "control_crystal:redstone_crystal",
+    "count": 1
+  }
+}

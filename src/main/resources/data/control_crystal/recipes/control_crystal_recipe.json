@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "control_crystal:control_crystal_fragment"
+    },
+    "3": {
+      "item": "control_crystal:control_crystal_fragment"
+    },
+    "4": {
+      "item": "minecraft:cobblestone"
+    },
+    "5": {
+      "item": "control_crystal:control_crystal_fragment"
+    },
+    "7": {
+      "item": "control_crystal:control_crystal_fragment"
+    }
+  },
+  "result": {
+    "item": "control_crystal:control_crystal_kernel",
+    "count": 1
+  }
+}

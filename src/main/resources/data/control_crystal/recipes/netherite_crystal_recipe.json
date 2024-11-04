@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ancient_debris"
+    },
+    "1": {
+      "item": "minecraft:ancient_debris"
+    },
+    "2": {
+      "item": "minecraft:ancient_debris"
+    },
+    "3": {
+      "item": "minecraft:ancient_debris"
+    },
+    "4": {
+      "item": "control_crystal:control_crystal_kernel"
+    },
+    "5": {
+      "item": "minecraft:ancient_debris"
+    },
+    "6": {
+      "item": "minecraft:ancient_debris"
+    },
+    "7": {
+      "item": "minecraft:ancient_debris"
+    },
+    "8": {
+      "item": "minecraft:ancient_debris"
+    }
+  },
+  "result": {
+    "item": "control_crystal:netherite_crystal",
+    "count": 1
+  }
+}

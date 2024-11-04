@@ -1,0 +1,32 @@
+{
+  "item.control_crystal.control_crystal_kernel": "❤Control Crystal!❤",
+
+  "item.control_crystal.control_crystal_fragment": "Control Crystal Fragment",
+
+  "item.control_crystal.coal_crystal": "Control Crystal - Coal",
+
+  "item.control_crystal.copper_crystal": "Control Crystal - Copper",
+
+  "item.control_crystal.iron_crystal": "Control Crystal - Iron",
+
+  "item.control_crystal.gold_crystal": "Control Crystal - Gold",
+
+  "item.control_crystal.lapis_crystal": "Control Crystal - Lapis Lazuli",
+
+  "item.control_crystal.diamond_crystal": "Control Crystal - Diamond",
+
+  "item.control_crystal.quartz_crystal": "Control Crystal - Quartz",
+
+  "item.control_crystal.netherite_crystal": "Control Crystal - Netherite",
+
+  "item.control_crystal.emerald_crystal": "Control Crystal - Emerald",
+
+  "item.control_crystal.redstone_crystal": "Control Crystal - Redstone",
+
+  "block.control_crystal.control_crystal_ore": "Control Crystal Ore",
+
+  "quest.win": " Quest Complete",
+
+  "quest.lose": " Quest Failed"
+
+}
